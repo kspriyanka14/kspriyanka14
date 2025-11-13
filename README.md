@@ -4,8 +4,8 @@
 
 <a href="https://www.linkedin.com/in/priyankaks0114"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://priyankaks.com"><img src="https://img.shields.io/badge/My Website-E74C3C?style=for-the-badge&logo=safari&logoColor=white"/></a>
-<a href="https://github.com/kspriyanka14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:priyankaks0114@gmail.com"><img src="https://img.shields.io/badge/Email-EC7063?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:priyankaks0114@gmail.com"><img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=kspriyanka14&color=0A66C2&style=for-the-badge" alt="Profile views" /></div>
 
 </div>
 
@@ -112,15 +112,4 @@ graph LR
     </td>
   </tr>
 </table>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kspriyanka14&color=E74C3C&style=flat&label=Profile+Views"/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC7063,50:E74C3C,100:C0392B&height=100&section=footer"/>
-
 </div>
