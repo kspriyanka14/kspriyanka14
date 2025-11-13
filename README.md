@@ -114,31 +114,10 @@ graph LR
 </table>
 </div>
 
-## What I Focus On
-
-**Design & UX**
-- User research, personas, and journey mapping
-- Wireframing and interactive prototyping in Figma
-- Design systems and component libraries
-- WCAG accessibility compliance
-
-**Development**
-- Clean, readable code with comprehensive testing
-- Responsive design and cross-browser compatibility
-- RESTful API design and integration
-- Performance optimization
+<br/>
 
 <div align="center">
 
-<br/>
-
-## Get In Touch
-
-I'm always interested in collaborating on projects that prioritize user experience and accessibility.
-
-**Email:** [priyankaks0114@gmail.com](mailto:priyankaks0114@gmail.com) • **My Website:** [priyankaks.com](https://priyankaks.com) • **LinkedIn:** [linkedin.com/in/priyankaks0114](https://www.linkedin.com/in/priyankaks0114)
-
-<br/>
 <img src="https://komarev.com/ghpvc/?username=kspriyanka14&color=E74C3C&style=flat&label=Profile+Views"/>
 <br/>
 
