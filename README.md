@@ -9,7 +9,7 @@
 
 </div>
 
-## About Me
+## 👩🏻‍💻 About Me
 
 I'm a full-stack web developer with a strong focus on UI/UX design. I work across the entire product development cycle from user research and wireframing to building scalable applications with clean, maintainable code.
 
@@ -17,7 +17,7 @@ My approach combines design thinking with technical execution. I prioritize acce
 
 <div align="center">
 
-### My Development Process
+### ⚙️ My Development Process
 
 </div>
 
@@ -36,7 +36,7 @@ graph LR
     style E fill:#C0392B,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF
 ```
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 <table>
